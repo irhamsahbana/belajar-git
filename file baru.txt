@@ -1,3 +1,4 @@
 isi file baru di sini
 baris kedua di file baru
 melakukan perubahan di remote repo
+melakukan perubahan di remote repo namun coba langsung pakai pull
